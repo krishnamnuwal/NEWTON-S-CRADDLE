@@ -52,6 +52,15 @@ chain2.display();
 chain3.display();
 chain4.display();
 chain5.display();
+fill("red");
+textSize(20);
+textFont("Arial Black")
+text("KEY TO PRESS",330,600);
+text("1.UP",330,630);
+text("2.DOWN",330,660);
+text("3.LEFT",330,690);
+textSize(28);
+text("NEWTON'S CRADDLE",250,100);
 }
 
 
